@@ -1,5 +1,6 @@
-# Moved to GitLab
+# Most of my stuff is on GitLab
 
-I have started moving projects over to GitLab.
-
+All of my personal projects are on GitLab.
 See my profile at GitLab [here](https://gitlab.com/kylesferrazza).
+
+This profile just contains forks for PR purposes.
